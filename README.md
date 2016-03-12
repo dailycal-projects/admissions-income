@@ -12,7 +12,7 @@ Are students from high schools in a higher income bracket more likely to apply t
 
 
 #### Mockup #1
-![Image of Mockup](income-viz.png)
+![Image of Mockup](income-viz.jpg)
 
 
 **`Layer 1`**: Each bubble's size is determined by the # of admits while the color is determined by the city median household income.
